@@ -1,2 +1,2 @@
 # IN1010 - obliger
-Sikkerhetskopier
+Obliger for IN1010 våren 2019.
